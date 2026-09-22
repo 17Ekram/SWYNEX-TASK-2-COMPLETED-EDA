@@ -37,8 +37,8 @@ UPI had 2,979 transactions, followed by Credit Card with 2,226. UPI also generat
 
 The 31–45 age group generated the highest sales at approximately ₹7.56M, followed by the 46–60 group at approximately ₹7.39M.
 
-
-Project Highlights
+**
+Project Highlights**
 
 ## 📊 Key Business Insights
 
@@ -71,9 +71,7 @@ Project Highlights
 - 2025 sales were ₹11.72M compared with ₹11.48M in 2024.
 - January recorded the highest monthly sales at approximately ₹2.10M.
 
-- 🛠️ Tools & Skills
-
-- ## 🛠️ Tools & Technologies
+-** ## 🛠️ Tools & Technologies**
 
 - Python
 - Pandas
